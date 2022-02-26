@@ -1,19 +1,15 @@
 <template>
-  <div class="flex bg-blue-100 mx-10 mt-10">
+  <div class="flex items-center mx-10">
     <div class="flex-1">
       <div class="m-10">
-        <h2>HEY! I AM</h2>
-        <h1>CARLO ADAMOS!</h1>
-        <h2>I am a Developer.</h2>
-        <h6>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dolor
-          dui, lacinia pharetra blandit quis, bibendum et justo. Integer dapibus
-          convallis quam at rhoncus. Nulla elementum mollis leo, eget dictum
-          libero accumsan ac.
-        </h6>
+        <h2 class="text-5xl">HEY! I AM</h2>
+        <h1 class="text-9xl">CARLO ADAMOS!</h1>
+        <h2 class="text-5xl">a Front-end Web Developer.</h2>
       </div>
     </div>
-    <div class="flex-1">Picture here</div>
+    <div class="flex-1">
+      <img src="~/assets/images/profile.jpg" />
+    </div>
   </div>
 </template>
 
