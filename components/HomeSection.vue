@@ -7,9 +7,9 @@
         <h2 class="text-5xl">a Front-end Web Developer.</h2>
       </div>
     </div>
-    <div class="flex-1">
+    <!-- <div class="flex-1">
       <img src="~/assets/images/profile.jpg" />
-    </div>
+    </div> -->
   </div>
 </template>
 
