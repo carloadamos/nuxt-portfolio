@@ -4,6 +4,14 @@
     <section-page>
       <home-section />
     </section-page>
+
+    <section-page> Services </section-page>
+
+    <section-page> Components </section-page>
+
+    <section-page> Sample Projects </section-page>
+
+    <section-page> Contact me </section-page>
   </div>
 </template>
 
