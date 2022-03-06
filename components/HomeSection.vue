@@ -2,8 +2,8 @@
   <div class="flex items-center mx-10">
     <div class="flex-1">
       <div class="m-10">
-        <h2 class="text-5xl">HEY! I AM</h2>
-        <h1 class="text-9xl">CARLO ADAMOS!</h1>
+        <h2 class="text-5xl">Hey! It's</h2>
+        <h1 class="text-10xl font-black animate-pulse">CARLO ADAMOS</h1>
         <h2 class="text-5xl">a Front-end Web Developer.</h2>
       </div>
     </div>
