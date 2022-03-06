@@ -5,12 +5,13 @@
       <home-section />
     </section-page>
     <section-page>
-      <div>Services: Freelance Development</div>
+      <services-page></services-page>
+      <!-- <div>Services: Freelance Development</div>
       <div>Vue</div>
       <div>lit-html</div>
       <div>Docker</div>
       <div>Kubernetes</div>
-      <div>Web Configuration</div>
+      <div>Web Configuration</div> -->
     </section-page>
     <section-page>
       <div>Components</div>
@@ -32,9 +33,10 @@
 import HeaderBar from '../components/HeaderBar.vue';
 import HomeSection from '../components/HomeSection.vue';
 import SectionPage from '../components/SectionPage.vue';
+import ServicesPage from '@/components/ServicesPage.vue';
 
 export default {
   name: 'IndexPage',
-  components: { HeaderBar, SectionPage, HomeSection },
+  components: { HeaderBar, SectionPage, ServicesPage, HomeSection },
 };
 </script>
