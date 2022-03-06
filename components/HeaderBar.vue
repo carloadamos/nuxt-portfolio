@@ -1,6 +1,6 @@
 <template>
   <div
-    class="lg:sticky top-0 h-20 bg-white flex justify-end items-center shadow-md z-999"
+    class="h-20 bg-white fixed top-0 w-full flex justify-end items-center shadow-md z-999"
   >
     <nav>
       <a class="block md:hidden">Menu</a>
@@ -11,32 +11,22 @@
       >
       <a
         class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
-        >Services</a
+        href="#services"
+        >Platforms</a
       >
       <a
         class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
-        >About</a
+        href="#components"
+        >Components</a
       >
       <a
         class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
-        >Resume</a
+        href="#projects"
+        >Projects</a
       >
       <a
         class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
-        >Works</a
-      >
-      <a
-        class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
-        >Blog</a
-      >
-      <a
-        class="hidden md:inline-block hover:bg-green-100 px-2 py-1 rounded-md"
-        href="#"
+        href="#contact"
         >Contact</a
       >
     </nav>

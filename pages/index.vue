@@ -1,10 +1,10 @@
 <template>
   <div class="h-screen">
     <header-bar />
-    <section-page>
+    <section-page id="home">
       <home-section />
     </section-page>
-    <section-page>
+    <section-page id="services">
       <services-page></services-page>
       <!-- <div>Services: Freelance Development</div>
       <div>Vue</div>
@@ -13,14 +13,14 @@
       <div>Kubernetes</div>
       <div>Web Configuration</div> -->
     </section-page>
-    <section-page>
+    <section-page id="components">
       <div>Components</div>
       <div>textbox</div>
       <div>dropdowns</div>
       <div>forms</div>
     </section-page>
-    <section-page> Sample Projects </section-page>
-    <section-page>
+    <section-page id="projects"> Sample Projects </section-page>
+    <section-page id="contact">
       <div>Contact me</div>
       <div>form</div>
       <div>github</div>
