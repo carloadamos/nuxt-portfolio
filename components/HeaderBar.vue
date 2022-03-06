@@ -1,6 +1,6 @@
 <template>
   <div
-    class="lg:sticky top-0 h-20 bg-white flex justify-end items-center shadow-md"
+    class="lg:sticky top-0 h-20 bg-white flex justify-end items-center shadow-md z-999"
   >
     <nav>
       <a class="block md:hidden">Menu</a>

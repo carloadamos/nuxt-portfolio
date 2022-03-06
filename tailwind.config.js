@@ -10,6 +10,9 @@ module.exports = {
       fontSize: {
         '10xl': '10rem',
       },
+      zIndex: {
+        999: '999',
+      },
     },
   },
   plugins: [],
