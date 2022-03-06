@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-row w-full text-10xl font-black bg-clip-text via-indigo-700 leading-loose"
+    class="flex flex-col lg:flex-row w-full text-8xl lg:text-10xl font-black bg-clip-text via-indigo-700 leading-loose"
   >
     <div
       class="flex-1 text-center cursor-pointer border-8 border-transparent hover:border-vue-green"
